@@ -1,0 +1,18 @@
+.main-table-container{
+	display: flex;
+	width: 930px;
+	margin: 0 auto;
+}
+.product-cards--container{
+	display: flex;
+	/*acomodar cuando usamos flex*/
+	flex-wrap: wrap;
+	width: 930px;
+	margin: 0 auto;
+}
+/*Vamoa acomodar la seccion de los planes*/
+
+/*Contenedor de las tarjetas*/
+.plans-container--slider{
+ justify-content: center;
+}
